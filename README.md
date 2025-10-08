@@ -11,3 +11,6 @@ of mathematical knowledge is an important part of epistemology
 Von Neumann's idea to formulate quantum mechanics as an operator
 calculus in Hilbert space was undoubtedly one of the great innovations in
 modern mathematical physim
+
+3. When in great solitude remember of the friends that served you well, of the people you impacted and of the things you said.
+When in great solitude be you. 
