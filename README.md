@@ -10,7 +10,9 @@ of mathematical knowledge is an important part of epistemology
 2.
 Von Neumann's idea to formulate quantum mechanics as an operator
 calculus in Hilbert space was undoubtedly one of the great innovations in
-modern mathematical physim
+modern mathematical physiology. 
 
 3. When in great solitude remember of the friends that served you well, of the people you impacted and of the things you said.
-When in great solitude be you. 
+When in great solitude be you.
+
+4. passion is the craving turned action of the epistemological application at its maximum.
